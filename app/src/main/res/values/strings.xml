@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MeuPrimeiroAppAndroid</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="next">Próximo</string>
+    <string name="previous">Voltar</string>
+    <string name="titulo_app">Operação Aritmética</string>
+    <string name="multiplicacao">*</string>
+    <string name="adicao">+</string>
+</resources>
